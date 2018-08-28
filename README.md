@@ -37,7 +37,7 @@ This package is a Laravel (5.5+) utility which helps you keep and manage your ap
 
 ## Features
 
-### Easily control you app version using a YAML config file
+### Easily control your app version using a YAML config file
 
 ``` yaml
 version: 
@@ -271,7 +271,7 @@ format:
 
 ### Artisan commands
 
-Those are the commands you have at your disposal:
+These are the commands you have at your disposal:
 
 #### version:show
 
